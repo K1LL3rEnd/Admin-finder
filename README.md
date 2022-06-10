@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20osx-lightgrey.svg)
 
 * A script of easy way to find admin panel of a site written in Python3.
-The script actually bruteforce the possible directories and returns thea HTTP response code.
+The script actually bruteforce the possible directories and returns the HTTP response code.
 You can add your own directories by editing "admin_panels.txt" file.
 
 ## Installation & Usage
